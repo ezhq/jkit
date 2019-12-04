@@ -1,0 +1,6 @@
+# Ignore
+.git
+.DS_Store
+
+# Not Ignore
+!.gitignore
